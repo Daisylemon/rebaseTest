@@ -1,4 +1,5 @@
 let obj = {
     name: 'libeauty',
-    age: 18
+    age: 18,
+    like: 'nothing'
 }
